@@ -1,0 +1,12 @@
+(lp0
+I1
+aI2
+aI3
+aI4
+aI5
+a.(dp0
+S'name'
+p1
+S'nirmal'
+p2
+s.
